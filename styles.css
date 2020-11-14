@@ -30,10 +30,6 @@ li {
     font-size: 16px;
 }
 
-div {
-    background: rgba(20, 13, 0, 0.13);
-}
-
 .menu {
     padding: 5px 15px;
 }
@@ -43,6 +39,7 @@ div {
     padding: 5px;
     font: bold 14px verdana;
     display: inline-block;
+    border: 1px solid black;
 }
 
 img {
@@ -54,4 +51,8 @@ div {
     border: solid black 1px;
     margin: auto;
     background: rgba(20, 13, 0, 0.13);
+}
+
+head {
+    background-color: rgb(214, 104, 0);
 }
