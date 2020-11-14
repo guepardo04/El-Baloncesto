@@ -11,7 +11,6 @@
 
 header, section, footer, aside, nav, article, hgroup {
     display: block;
-    border: 1px solid black;
 }
 
 body {
@@ -33,4 +32,19 @@ li {
 
 div {
     background: rgba(20, 13, 0, 0.13);
+}
+
+.menu {
+    padding: 5px 15px;
+}
+
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+}
+
+img {
+    width: 500px;
 }
