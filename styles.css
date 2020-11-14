@@ -48,3 +48,10 @@ div {
 img {
     width: 500px;
 }
+
+div {
+    width: 960px;
+    border: solid black 1px;
+    margin: auto;
+    background: rgba(20, 13, 0, 0.13);
+}
